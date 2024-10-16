@@ -137,7 +137,7 @@
   </tr>
   <tr>
     <td>Используя команду echo, добавьте слово test в файл 4</td>
-    <td>$ echo "test" >> test3/file4.txt</td>
+    <td>$ echo "test" > test3/file4.txt</td>
   </tr>
   <tr>
     <td>Замените слово test в файле 4 на fail</td>
